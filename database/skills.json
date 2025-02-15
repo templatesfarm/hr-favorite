@@ -1,0 +1,176 @@
+{
+  "skills": {
+    "frontend": [],
+    "backend": [],
+    "database": [],
+    "mobile": [],
+    "devops": [],
+    "cloud": [],
+    "erp_crm": [],
+    "analytics": [],
+    "mba_tools": [],
+    "ai_ml": [],
+    "ms_tools": [],
+    "education_tools": [],
+    "healthcare_software": [],
+    "finance_tools": [],
+    "graphic_design": [
+      {
+        "label": "Canva",
+        "imageName": "/canva.png"
+      }
+    ],
+    "project_management": [],
+    "version_control": [],
+    "coding_languages": [
+      {
+        "label": "JavaScript",
+        "imageName": "/javascript.png"
+      },
+      {
+        "label": "Python",
+        "imageName": "/python.png"
+      },
+      {
+        "label": "Java",
+        "imageName": "/java.png"
+      },
+      {
+        "label": "C#",
+        "imageName": "/csharp.png"
+      },
+      {
+        "label": "C++",
+        "imageName": "/cplusplus.png"
+      },
+      {
+        "label": "Ruby",
+        "imageName": "/ruby.png"
+      },
+      {
+        "label": "PHP",
+        "imageName": "/php.png"
+      },
+      {
+        "label": "TypeScript",
+        "imageName": "/typescript.png"
+      },
+      {
+        "label": "Swift",
+        "imageName": "/swift.png"
+      },
+      {
+        "label": "Kotlin",
+        "imageName": "/kotlin.png"
+      },
+      {
+        "label": "Go",
+        "imageName": "/go.png"
+      },
+      {
+        "label": "Rust",
+        "imageName": "/rust.png"
+      },
+      {
+        "label": "Dart",
+        "imageName": "/dart.png"
+      },
+      {
+        "label": "R",
+        "imageName": "/r.png"
+      },
+      {
+        "label": "Scala",
+        "imageName": "/scala.png"
+      },
+      {
+        "label": "Perl",
+        "imageName": "/perl.png"
+      },
+      {
+        "label": "Haskell",
+        "imageName": "/haskell.png"
+      },
+      {
+        "label": "Lua",
+        "imageName": "/lua.png"
+      },
+      {
+        "label": "SQL",
+        "imageName": "/sql.png"
+      },
+      {
+        "label": "Shell",
+        "imageName": "/shell.png"
+      },
+      {
+        "label": "VB.NET",
+        "imageName": "/vbnet.png"
+      },
+      {
+        "label": "Objective-C",
+        "imageName": "/objectivec.png"
+      },
+      {
+        "label": "Assembly",
+        "imageName": "/assembly.png"
+      },
+      {
+        "label": "Elixir",
+        "imageName": "/elixir.png"
+      },
+      {
+        "label": "Clojure",
+        "imageName": "/clojure.png"
+      },
+      {
+        "label": "Erlang",
+        "imageName": "/erlang.png"
+      },
+      {
+        "label": "Fortran",
+        "imageName": "/fortran.png"
+      },
+      {
+        "label": "COBOL",
+        "imageName": "/cobol.png"
+      },
+      {
+        "label": "F#",
+        "imageName": "/fsharp.png"
+      },
+      {
+        "label": "Ada",
+        "imageName": "/ada.png"
+      },
+      {
+        "label": "D",
+        "imageName": "/d.png"
+      },
+      {
+        "label": "Groovy",
+        "imageName": "/groovy.png"
+      },
+      {
+        "label": "Prolog",
+        "imageName": "/prolog.png"
+      },
+      {
+        "label": "Julia",
+        "imageName": "/julia.png"
+      },
+      {
+        "label": "Pascal",
+        "imageName": "/pascal.png"
+      },
+      {
+        "label": "Crystal",
+        "imageName": "/crystal.png"
+      },
+      {
+        "label": "Scheme",
+        "imageName": "/scheme.png"
+      }
+    ]
+  }
+}
