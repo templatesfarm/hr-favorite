@@ -67,88 +67,36 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jul'04-Jun'07",
-        "projectName": "Intuit Quickbooks Online",
-        "headline1": "Intuit Quickbooks Online",
-        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "designation": "Software Engineer",
+        "timeline": "Jul'23 – Present",
+        "projectName": "Business Process Optimization for Enterprise Clients",
+        "headline1": "Leading a team to improve operational efficiency for global clients.",
+        "headline2": "Implemented strategies that reduced operational costs by 15%.",
+        "designation": "Management Consultant",
         "link": {
-          "linkUrl": "https://originui.com/badge",
-          "linkText": "Click here for the Project"
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
         },
-        "cover": "",
-        "skills": "ReactJS, TypeScript, Redux, PWA",
-        "companyName": "Intuit",
-        "clientName": "",
+        "skills": "Business Strategy, Market Research, Financial Modeling, Project Management",
+        "companyName": "Tata Consultancy Services (TCS)",
         "images": [
           {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+            "fileName": "mg1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg1.png"
           },
           {
-            "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
+            "fileName": "mg2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg2.png"
           },
           {
-            "fileName": "NewLogo.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/NewLogo.jpeg"
-          },
-          {
-            "fileName": "IIM Kozhikode.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/IIM%20Kozhikode.png"
+            "fileName": "mg5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg5.png"
           }
-        ],
-        "rank": "1"
-      },
-      {
-        "timeline": "2022-24",
-        "projectName": "Lowe's Cart",
-        "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "designation": "Lead Software Engineer",
-        "link": "",
-        "cover": "",
-        "skills": "ReactJS, TypeScript, Redux, PWA",
-        "companyName": "Lowe's",
-        "clientName": "",
-        "images": [
-          {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
-          }
-        ],
-        "rank": "2"
+        ]
       }
     ]
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "timeline": "2004-07",
-        "courseName": "Bachelor of CO",
-        "instituteName": "H.N.B. Garhwal University, Srinagar, UK",
-        "specializedIn": "Mathematics, Physics, Chemistry",
-        "yearPassout": "2007",
-        "headline1": "Pursued B.SC specialized in Mathematics",
-        "headline2": "Won Mathematics quiz as 1st Prize",
-        "cgpa": "9.5",
-        "link": {
-          "linkText": "Degree",
-          "linkUrl": "https://github.com/"
-        },
-        "images": [
-          {
-            "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
-          },
-          {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
-          }
-        ],
-        "rank": "3"
-      }
-    ]
+    "qualifications": []
   }
 }
