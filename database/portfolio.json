@@ -25,31 +25,39 @@
     "displayName": "Tools",
     "skills": [
       {
-        "name": "TypeScript",
+        "name": "Business Strategy",
+        "rating": 9.5
+      },
+      {
+        "name": "Project Management",
         "rating": 8.5
       },
       {
-        "name": "JavaScript",
-        "rating": 10
-      },
-      {
-        "name": "NextJS",
+        "name": "Marketing Strategy",
         "rating": 8.5
       },
       {
-        "name": "Tailwind CSS",
-        "rating": 7.5
+        "name": "Operations Management",
+        "rating": 6.5
       },
       {
-        "name": "Material UI",
+        "name": "Leadership & Team Management",
+        "rating": 8.5
+      },
+      {
+        "name": "Data Analytics (Excel, SQL, Tableau, Power BI)",
         "rating": 8
       },
       {
-        "name": "ReactJS",
-        "rating": 8.5
+        "name": "Financial Analysis & Budgeting",
+        "rating": 7.5
       },
       {
-        "name": "NextJS TypeScript",
+        "name": "Market Research & Competitive Analysis",
+        "rating": 8
+      },
+      {
+        "name": "Stakeholder Communication",
         "rating": 8.5
       }
     ],
