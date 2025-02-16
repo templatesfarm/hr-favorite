@@ -1,19 +1,19 @@
 {
   "personalInfo": {
     "displayName": "",
-    "name": "Steve Smith",
-    "contactNumber": "9364001234",
-    "email": "yashchawla@gmail.com",
+    "name": "Rohan",
+    "contactNumber": "9876543210",
+    "email": "rohan@gmail.com",
     "socialMedia": {
-      "linkedIn": "https://www.linkedin.com/in/deepakpahawa/",
-      "github": "",
-      "youtube": "https://www.linkedin.com/in/deepakpahawa/",
-      "xdotcom": "https://www.linkedin.com/in/deepakpahawa/",
-      "instagram": "https://www.linkedin.com/in/deepakpahawa/",
-      "facebook": "https://www.linkedin.com/in/deepakpahawa/"
+      "linkedIn": "https://www.linkedin.com",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "",
+      "facebook": ""
     },
-    "resumeName": "Ashish's--Resume.pdf",
-    "gender": "Female"
+    "resumeName": "Rohan_CV.pdf",
+    "gender": "Male"
   },
   "heroInfo": {
     "displayName": "",
