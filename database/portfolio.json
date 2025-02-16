@@ -92,6 +92,26 @@
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg5.png"
           }
         ]
+      },
+      {
+        "timeline": "Aug'20 – Aug'21",
+        "projectName": "Retail Banking Expansion Strategy",
+        "headline1": "Developed market penetration strategies to expand customer base.",
+        "headline2": "Optimized financial products, increasing revenue by 12%.",
+        "designation": "Assistant Manager - Business Strategy",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "Financial Analysis, Strategic Planning, Stakeholder Communication",
+        "companyName": "HDFC Bank",
+        "images": [
+          {
+            "fileName": "mg3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg3.png"
+          }
+        ],
+        "rank": "3"
       }
     ]
   },
