@@ -41,19 +41,19 @@
         "rating": 7.5
       },
       {
+        "name": "NodeJS",
+        "rating": 8.5
+      },
+      {
         "name": "Material UI",
         "rating": 8
       },
       {
         "name": "ReactJS",
         "rating": 8.5
-      },
-      {
-        "name": "NodeJS",
-        "rating": 8.5
       }
     ],
-    "showMovingSkills": false
+    "skillAnimationType": "still-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
