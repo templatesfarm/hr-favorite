@@ -55,6 +55,35 @@
     ],
     "showMovingSkills": false
   },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740113192880",
+        "text": "Data Science",
+        "type": "award",
+        "name": "Data Science",
+        "rating": "certificate"
+      },
+      {
+        "id": "1740113167269",
+        "text": "Employee of the Month",
+        "type": "other"
+      },
+      {
+        "id": "1740113198809",
+        "text": "AI Course",
+        "type": "certificate",
+        "name": "AI Coursesdf",
+        "rating": "other"
+      },
+      {
+        "id": "1740113207745",
+        "text": "Digital Marketing Leader in College",
+        "type": "award"
+      }
+    ]
+  },
   "projectsInfo": {
     "displayName": "Timeline",
     "projects": [
