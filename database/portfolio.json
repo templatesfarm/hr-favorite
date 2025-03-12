@@ -1,0 +1,193 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Rohan Ahluwalia",
+    "contactNumber": "9876543210",
+    "email": "rohanahluwalia@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "resumeName": "RohanAhluwalia-CV.pdf",
+    "gender": "Male"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hey, I am Rohan.",
+    "introduction": "Management   Professional, Business   Strategy   Specialist, Financial  Analyst, Data   Analytics   Enthusiast",
+    "description": "Results-driven management professional with expertise in business strategy, marketing, and operations. Passionate about driving organizational growth through data-driven decision-making and leadership. Currently managing projects that enhance operational efficiency and business performance."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740396745434",
+        "name": "Business Strategy",
+        "rating": 8
+      },
+      {
+        "id": "1740396755635",
+        "name": "Project Management",
+        "rating": 6.5
+      },
+      {
+        "id": "1740396764850",
+        "name": "Marketing Strategy",
+        "rating": 8.5
+      },
+      {
+        "id": "1740396839267",
+        "name": "Operations Management",
+        "rating": 7
+      },
+      {
+        "id": "1740396846186",
+        "name": "Leadership & Team Management",
+        "rating": 8.5
+      },
+      {
+        "id": "1740396857667",
+        "name": "Data Analytics",
+        "rating": 9
+      },
+      {
+        "id": "1740396867650",
+        "name": "Financial Analysis & Budgeting",
+        "rating": 7
+      },
+      {
+        "id": "1740396877017",
+        "name": "Market Research & Competitive Analysis",
+        "rating": 9
+      },
+      {
+        "id": "1740396884400",
+        "name": "Stakeholder Communication",
+        "rating": 9.5
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740396959484",
+        "text": "Achieved a Project Management Professional (PMP) Certification, showcasing advanced skills in project execution and leadership.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740396974234",
+        "text": "Received a Digital Marketing Certification from Google, specializing in market analysis and online brand growth.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740396984083",
+        "text": "Certified in Financial Modeling and Valuation, enhancing expertise in investment analysis and financial decision-making.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740396995316",
+        "text": "Successfully implemented a cost-reduction strategy in a real-world business project, resulting in a 20% reduction in operational expenses.",
+        "type": "other"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Jul'23 – Present",
+        "projectName": "Business Process Optimization for Enterprise Clients",
+        "headline1": "Leading a team to improve operational efficiency for global clients.",
+        "headline2": "Implemented strategies that reduced operational costs by 15%.",
+        "designation": "Management Consultant",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Business Strategy, Market Research, Financial Modeling, Project Management",
+        "companyName": "Tata Consultancy Services (TCS)",
+        "images": [
+          {
+            "fileName": "mg1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg1.png"
+          },
+          {
+            "fileName": "mg2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg2.png"
+          },
+          {
+            "fileName": "mg5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg5.png"
+          }
+        ]
+      },
+      {
+        "timeline": "Aug'20 – Aug'21",
+        "projectName": "Retail Banking Expansion Strategy",
+        "headline1": "Developed market penetration strategies to expand customer base.",
+        "headline2": "Optimized financial products, increasing revenue by 12%.",
+        "designation": "Assistant Manager - Business Strategy",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Financial Analysis, Strategic Planning, Stakeholder Communication",
+        "companyName": "HDFC Bank",
+        "images": [
+          {
+            "fileName": "mg3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg3.png"
+          },
+          {
+            "fileName": "mg4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg4.png"
+          }
+        ],
+        "rank": "3"
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2021-2023",
+        "courseName": "Master of Business Administration (MBA)",
+        "instituteName": "Indian Institute of Management (IIM), Bangalore",
+        "specializedIn": "Marketing & Operations",
+        "yearPassout": "2023",
+        "headline1": "Completed MBA from IIM Bangalore with distinction.",
+        "headline2": "Worked on real-time business cases with Fortune 500 companies.",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "2"
+      },
+      {
+        "timeline": "2017-2020",
+        "courseName": "Bachelor of Commerce (B.Com)",
+        "instituteName": "Mumbai University",
+        "specializedIn": "Finance & Marketing",
+        "yearPassout": "2020",
+        "headline1": "Led a research project on Consumer Behavior in Digital Marketing.",
+        "headline2": "Internship in financial analysis at HDFC Bank.",
+        "cgpa": "8.7",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "4"
+      }
+    ]
+  }
+}
