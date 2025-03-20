@@ -75,7 +75,7 @@
         "rating": 8.5
       }
     ],
-    "skillAnimationType": "still-animation"
+    "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
