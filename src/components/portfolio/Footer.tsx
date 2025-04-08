@@ -1,6 +1,6 @@
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 
-import { ContactViewWithAuth } from "portfolioui/placement-pro";
+import { ContactViewWithAuth } from "portfolioui/hr-favorite";
 
 export default function Footer() {
   const { portfolio, isLoading } = usePortfolioStore();

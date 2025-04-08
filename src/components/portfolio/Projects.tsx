@@ -1,7 +1,7 @@
 import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
-import { ProjectsEditableWithAuth } from "portfolioui/placement-pro";
+import { ProjectsEditableWithAuth } from "portfolioui/hr-favorite";
 
 export const Projects = () => {
   const {

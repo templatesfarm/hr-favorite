@@ -3,7 +3,7 @@
 import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
-import { AchievementEditableWithAuth } from "portfolioui/placement-pro";
+import { AchievementEditableWithAuth } from "portfolioui/hr-favorite";
 
 export const Achievements = () => {
   const {

@@ -2,7 +2,7 @@
 import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
-import { SkillsEditableWithAuth } from "portfolioui/placement-pro";
+import { SkillsEditableWithAuth } from "portfolioui/hr-favorite";
 import { SliderIconType } from "portfolioui";
 
 export const Skills = () => {
