@@ -150,6 +150,39 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": []
+    "qualifications": [
+      {
+        "timeline": "2021-2023",
+        "courseName": "Master of Business Administration (MBA)",
+        "instituteName": "Indian Institute of Management (IIM), Bangalore",
+        "specializedIn": "Marketing & Operations",
+        "yearPassout": "2023",
+        "headline1": "Completed MBA from IIM Bangalore with distinction.",
+        "headline2": "Worked on real-time business cases with Fortune 500 companies.",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "2"
+      },
+      {
+        "timeline": "2017-2020",
+        "courseName": "Bachelor of Commerce (B.Com)",
+        "instituteName": "Mumbai University",
+        "specializedIn": "Finance & Marketing",
+        "yearPassout": "2020",
+        "headline1": "Led a research project on Consumer Behavior in Digital Marketing.",
+        "headline2": "Internship in financial analysis at HDFC Bank.",
+        "cgpa": "8.7",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "4"
+      }
+    ]
   }
 }
