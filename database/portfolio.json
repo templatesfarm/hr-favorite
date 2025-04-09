@@ -96,76 +96,60 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "2022-Present",
-        "projectName": "AI-Powered Testing for E-Commerce Platform",
-        "headline1": "Implemented AI-driven test case generation, improving test coverage by 40% and reducing undetected defects in production.",
-        "headline2": "Led a team of 8 automation engineers to develop a scalable testing framework for microservices architecture.",
-        "designation": "Senior Software Development Engineer in Test (SDET II)",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "skills": "Python, Cypress, Performance Testing, Kubernetes, Docker, CI/CD",
-        "companyName": "Amazon",
-        "images": [
-          {
-            "fileName": "st1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st1.png"
-          },
-          {
-            "fileName": "st2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st2.png"
-          },
-          {
-            "fileName": "st3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st3.png"
-          }
-        ]
-      },
-      {
-        "timeline": "2019-2022",
-        "projectName": "Enterprise Web Application Testing",
-        "headline1": "Developed an automation testing suite using Selenium and Java, reducing regression testing time by 70%.",
-        "headline2": "Integrated test automation with CI/CD pipelines using Jenkins, enabling faster and more reliable software releases.",
-        "designation": "Software Development Engineer in Test (SDET)",
+        "timeline": "Jul'23 – Present",
+        "projectName": "Business Process Optimization for Enterprise Clients",
+        "headline1": "Leading a team to improve operational efficiency for global clients.",
+        "headline2": "Implemented strategies that reduced operational costs by 15%.",
+        "designation": "Management Consultant",
         "link": {
           "linkText": "Link",
           "linkUrl": "https://originui.com/badge"
         },
-        "skills": "Selenium, Java, TestNG, Jenkins, REST Assured, API Testing, Agile",
-        "companyName": "Infosys Ltd.",
+        "skills": "Business Strategy, Market Research, Financial Modeling, Project Management",
+        "companyName": "Tata Consultancy Services (TCS)",
         "images": [
           {
-            "fileName": "st4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st4.png"
+            "fileName": "management 1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/management%201.png"
           },
           {
-            "fileName": "st5.jpg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st5.jpg"
+            "fileName": "management 2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/management%202.png"
+          },
+          {
+            "fileName": "management 5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/management%205.png"
           }
         ]
+      },
+      {
+        "timeline": "Aug'20 – Aug'21",
+        "projectName": "Retail Banking Expansion Strategy",
+        "headline1": "Developed market penetration strategies to expand customer base.",
+        "headline2": "Optimized financial products, increasing revenue by 12%.",
+        "designation": "Assistant Manager - Business Strategy",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Financial Analysis, Strategic Planning, Stakeholder Communication",
+        "companyName": "HDFC Bank",
+        "images": [
+          {
+            "fileName": "management 3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/management%203.png"
+          },
+          {
+            "fileName": "management 4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/management%204.png"
+          }
+        ],
+        "rank": "3"
       }
     ]
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "timeline": "2015-2019",
-        "courseName": "Bachelor of Technology in Computer Science",
-        "instituteName": "Indian Institute of Technology (IIT), Delhi",
-        "specializedIn": "Software Testing, Automation, Machine Learning",
-        "yearPassout": "2019",
-        "headline1": "Developed a robust test automation framework for a university project, reducing manual testing efforts by 60%.",
-        "headline2": "Conducted research on machine learning-driven test case generation and published a paper in a national conference.",
-        "cgpa": "8.9",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "3"
-      }
-    ]
+    "qualifications": []
   }
 }
