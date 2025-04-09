@@ -76,19 +76,19 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1740422368943",
-        "text": "Awarded ‘Best Automation Engineer’ at Infosys (2021)",
+        "id": "1744218167468",
+        "text": "Developed and implemented a market entry strategy that expanded the company’s presence into two new regions, resulting in a 30% growth in customer base.",
+        "type": "other"
+      },
+      {
+        "id": "1744218188868",
+        "text": "Awarded “Strategic Leader of the Year” for consistently delivering high-impact initiatives that aligned with corporate objectives and drove measurable results.",
         "type": "award"
       },
       {
-        "id": "1740422398093",
-        "text": "Google Cloud Professional DevOps Engineer Certification (2023): Gained expertise in cloud-based testing, CI/CD, and infrastructure automation.",
+        "id": "1744218247350",
+        "text": "Earned the Project Management Professional (PMP®) certification from PMI, demonstrating expertise in project leadership and stakeholder management.",
         "type": "certificate"
-      },
-      {
-        "id": "1740422422394",
-        "text": "Speaker at Selenium Conference (2024): Delivered a talk on integrating Selenium with AI for enhanced test automation in large-scale systems.",
-        "type": "other"
       }
     ]
   },
