@@ -22,57 +22,52 @@
     "description": "Results-driven management professional with expertise in business strategy, marketing, and operations. Passionate about driving organizational growth through data-driven decision-making and leadership."
   },
   "skillsInfo": {
-    "displayName": "Specialization",
+    "displayName": "Skills",
     "skills": [
       {
-        "id": "1740422188608",
-        "name": "Test Automation",
+        "id": "1744217501215",
+        "name": "Business Strategy",
         "rating": 8
       },
       {
-        "id": "1740422193824",
-        "name": "Selenium",
+        "id": "1744217509883",
+        "name": "Project Management",
         "rating": 8.5
       },
       {
-        "id": "1740422200407",
-        "name": "Cypress",
-        "rating": 7.5
-      },
-      {
-        "id": "1740422209176",
-        "name": "Performance Testing",
-        "rating": 7.5
-      },
-      {
-        "id": "1740422215527",
-        "name": "Jenkins",
-        "rating": 7
-      },
-      {
-        "id": "1740422222826",
-        "name": "Kubernetes",
+        "id": "1744217516965",
+        "name": "Marketing Strategy",
         "rating": 8
       },
       {
-        "id": "1740422230492",
-        "name": "Agile Testing",
+        "id": "1744217525449",
+        "name": "Operations Management",
         "rating": 7.5
       },
       {
-        "id": "1740422236610",
-        "name": "Performance Testing",
-        "rating": 6.5
+        "id": "1744217532300",
+        "name": "Leadership & Team Management",
+        "rating": 9
       },
       {
-        "id": "1740422243376",
-        "name": "Security Testing",
+        "id": "1744217540467",
+        "name": "Financial Analysis & Budgeting",
         "rating": 8
       },
       {
-        "id": "1740422249810",
-        "name": "AI-Driven Testing",
+        "id": "1744217548166",
+        "name": "Market Research & Competitive Analysis",
         "rating": 8.5
+      },
+      {
+        "id": "1744217555632",
+        "name": "Stakeholder Communication",
+        "rating": 9.5
+      },
+      {
+        "id": "1744217561700",
+        "name": "Data Analytics",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"
